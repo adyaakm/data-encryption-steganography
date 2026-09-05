@@ -50,3 +50,22 @@ Input Image + Secret Message
        Encoding Process
             ↓
       Encoded Image
+```
+
+The message is converted into a suitable binary representation and embedded into
+the image using steganographic techniques.
+
+### 2. Decoding
+The resulting image looks visually similar to the original image but contains the
+hidden message.
+
+The decoding process takes the encoded image and extracts the hidden information.
+
+Encoded Image
+      ↓
+Decoding Process
+      ↓
+Hidden Message
+
+The encoded information is read from the image and converted back into the original
+text message.
