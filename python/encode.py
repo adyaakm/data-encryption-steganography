@@ -1,4 +1,3 @@
-```python
 from PIL import Image
 
 DELIMITER = "1111111111111110"
