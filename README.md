@@ -71,7 +71,7 @@ The encoded information is read from the image and converted back into the origi
 text message.
 
 ## Project Structure
-
+``` text
 data-encryption-steganography/
 │
 ├── python/
@@ -87,7 +87,7 @@ data-encryption-steganography/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ### Directory Description
 
 | Directory/File     | Description                                        |
