@@ -78,8 +78,8 @@ data-encryption-steganography/
 │   └── decode.py
 │
 ├── sample/
-│   ├── input.png
-│   └── output.png
+│   ├── sample_image.png
+│   └── encoded_image.png
 │
 ├── screenshots/
 │   └── application.png
