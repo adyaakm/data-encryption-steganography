@@ -30,9 +30,8 @@ encoding and decoding algorithms, and secure information handling.
 ## Technologies Used
 
 - **Python** – Core implementation and steganography logic
-- **PHP** – Application/interface development
-- **Image Processing** – Processing images for data embedding and extraction
-- **Steganography** – Technique used for hiding information within images
+- **Pillow** – Image processing
+- **LSB Steganography** – Technique used for hiding information within images
 
 ---
 
